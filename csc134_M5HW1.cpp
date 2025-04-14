@@ -1,5 +1,5 @@
 // CSC 134
-// M5HW1
+// M5HW1-GOLD
 // Sebastian Camacho
 // 04/14/2025
 
